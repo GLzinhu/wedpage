@@ -1,0 +1,1 @@
+alert("eu sou uma janela chata js")
